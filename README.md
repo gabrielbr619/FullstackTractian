@@ -39,9 +39,9 @@ O backend do app não me trouxe muita dor de cabeça, foi uma boa decisão come�
 
 No dia 1 todo mundo pensa que já sabe todo o desenrolar do projeto, e que não terá muitos problemas, um grande engano, claro que planejar previamente, facilita muito a vida quando queremos realizar qualquer tipo de alteração.
 
-No front, aprendi bastante sobre o próprio **React** no desenvolver da aplicação, principalmente por utilizar apenas ***componentes funcionais*** e ***hooks***, também gostei muito da lib ***Highcharts***, e é certo que irei usar-la em futuros projetos.
+No front, aprendi bastante sobre o próprio **React** durante o desenvolvimento da aplicação, principalmente por utilizar apenas ***componentes funcionais*** e ***hooks***, também gostei muito da lib ***Highcharts***, e é certo que irei usar-la em futuros projetos.
 
-No back, aprendi mais profundamente sobre mongoose com o seu metódo populate, a forma de referenciar outras tabelas dele. **extremamente útil.**
+No back, aprendi mais profundamente sobre mongoose com o seu metódo populate, a forma dele de referenciar outras tabelas. **extremamente útil.**
 <p>&nbsp;</p>
 
 
