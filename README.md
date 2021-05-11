@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/79314576/117860362-96b84880-b266-11eb-9889-6dbf95e4e8ae.png)
 
 ## O que é?
-Trata-se de uma dashboard, em primeiro momento pensada com uma solução ao **desafio Tractian**, mas ao longo do projeto tornou-se uma parte importante do meu aprendizado como desenvolvedor.
+Trata-se de uma dashboard, em primeiro momento pensada como uma solução ao **desafio Tractian**, mas ao longo do projeto tornou-se uma parte importante do meu aprendizado como desenvolvedor.
+Não apenas pela parte técnica em si, mas pela **autonomia** que me foi dada, para interpretar o pedido e bolar uma solução adequada.
 <p>&nbsp;</p>
 
 ## Tecnólogias utilizadas.
