@@ -1,0 +1,134 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  span {
+    font-size: 2.5rem;
+    font-weight: bolder;
+
+    color: #e2e2fa;
+
+    cursor: pointer;
+
+    &:hover {
+      transition: 0.2s;
+      color: #0087ff;
+    }
+  }
+
+  .iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background: #17172e;
+    border-radius: 10px 10px 0 0;
+    padding: .5rem 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .icon {
+    cursor: pointer;
+
+    &:hover {
+      transition: 0.2s;
+      color: #0087ff;
+    }
+  }
+
+  .layoutContainer{
+    display: flex;
+    width: 100%;
+    
+    .img{
+      border-radius: 20px;
+      padding: 0 2rem;
+      padding-right: 1rem;
+      width: 20rem;
+      
+      img{
+        width: 100%;
+        border-radius: 20px;
+        cursor: pointer;
+
+        &:hover{
+          transition: .2s;
+          border-radius: 50px;
+          transform: scale(1.03);
+        }
+      }
+    }
+
+    .infoContainer{
+      flex-grow: 1;
+      width: 50%;
+    }
+  }
+
+  .activeCard {
+    background: #2f2f5e;
+    border-bottom: none;
+    color: white;
+
+
+    display: flex;
+    flex-direction: column;
+
+    margin: 1rem;
+    border-radius: 10px;
+
+    
+
+    .insideContainer, .insideContainerLast {
+      margin: .3rem .8rem;
+      padding: .5rem 1rem;
+
+      background: #17172e;
+
+      border-radius: 10px;
+
+      h3 {
+        font-weight: bold;
+        font-size: 1.2rem;
+      }
+    }
+    .insideContainerLast{
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+
+  label {
+    margin-bottom: -0.4rem;
+  }
+
+  input,
+  select,
+  option {
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    margin: 0 1rem;
+  }
+
+  .slider{
+    margin: auto;
+    width: 95%;
+  }
+  
+  
+
+}
+
+.load {
+  color: #025297;
+
+  margin: 2rem;
+
+  font-size: 2rem;
+  font-weight: bolder;
+}
+

@@ -1,0 +1,22 @@
+.highchartsContainer{
+  margin: 2rem;
+  border-radius: 10px;
+  z-index: -1;
+  position: relative;
+
+  display: flex;
+  flex-flow: wrap;
+  .chart{
+    margin: 2rem;
+    width: 1rem;
+  }
+}
+
+.load{
+  color: #025297;
+  
+  margin: 2rem;
+  
+  font-size: 2rem;
+  font-weight: bolder;
+  }

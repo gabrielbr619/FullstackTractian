@@ -1,0 +1,25 @@
+.container{
+  height: 2rem;
+  width:100%;
+  background: rgb(121, 121, 126);
+  
+  border-radius: 10px;
+
+
+  .fillerStyles{
+    height: 100%;
+    
+    border-radius: 10px;
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .labelStyles{
+    color: white;
+    text-shadow: 1px 0 0 #17172E, -1px 0 0 #17172E, 0 1px 0 #17172E, 0 -1px 0 #17172E, 1px 1px #17172E, -1px -1px 0 #17172E, 1px -1px 0 #17172E, -1px 1px 0 #17172E;
+    font-size: 1.5rem;
+  }
+}
