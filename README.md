@@ -27,7 +27,7 @@ Não apenas pela parte técnica em si, mas pela **autonomia** que me foi dada, p
 <p>&nbsp;</p>
 
 # Jornada
-![image](https://user-images.githubusercontent.com/79314576/117863334-0976f300-b26a-11eb-978c-b39214190fe7.png)
+![image](https://user-images.githubusercontent.com/79314576/118003272-cd519a00-b31e-11eb-8d56-79d6f199275d.png)
 
 ##  Dificuldades
 Certamente minha maior dificuldade foi os layouts, redesenhei algumas vezes até ficar satisfeito, o que acabou gerando um gasto de tempo muito maior do que teria sido se o primeiro design fosse adequado.
@@ -46,8 +46,7 @@ No back, aprendi mais profundamente sobre mongoose com o seu metódo populate, a
 
 
 # Conclusão
-
-![image](https://user-images.githubusercontent.com/79314576/117867052-3927fa00-b26e-11eb-9ffc-9174e89f96e9.png)
+![image](https://user-images.githubusercontent.com/79314576/118003478-00942900-b31f-11eb-8dcf-2a5076fa6257.png)
 
 Foram dias bem interessantes/corridos, cheios de pesquisas, ideias, problemas e soluções.
 
